@@ -2,7 +2,7 @@
 
 This repository contains the Python implementation and datasets for the following paper:
 
-> **Efficient Size-Bounded Community Search Algorithms over Heterogeneous Information Networks**
+> **Efficient Size Constraint Community Search over Heterogeneous Information Networks**
 
 ---
 

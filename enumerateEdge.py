@@ -432,7 +432,7 @@ def heuristic(q,s):
             if not trussness[i]:
                 kv = 0
             else:
-                kv = min(trussness[i].values())
+                kv = max(trussness[i].values())
             if kv<minkv:
                 minkv = kv
                 vk = i
